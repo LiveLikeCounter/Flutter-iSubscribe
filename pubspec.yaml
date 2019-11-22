@@ -1,0 +1,46 @@
+name: flutter_isubscribe
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/images/
+
+  fonts:
+    - family: Nunitosans
+      fonts:
+        - asset: assets/fonts/Nunito_Sans/NunitoSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Nunito_Sans/NunitoSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Nunito_Sans/NunitoSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Nunito_Sans/NunitoSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Nunito_Sans/NunitoSans-Black.ttf
+          weight: 900
+    - family: Saira
+      fonts:
+        - asset: assets/fonts/saira/Saira-Regular.otf
+          weight: 400
+        - asset: assets/fonts/saira/Saira-Medium.otf
+          weight: 500
+        - asset: assets/fonts/saira/Saira-SemiBold.otf
+          weight: 600
