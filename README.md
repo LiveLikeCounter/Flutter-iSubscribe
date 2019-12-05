@@ -1,6 +1,6 @@
 # 💲 Flutter App "iSubscriptions"
 
-A Flutter app based on the design of the design "Subscription App" *by Amruta A. Panganti*, see more on: [Dribbble](https://dribbble.com/shots/5454871-Subscription-App-Freebie-UI-Kit).
+A Flutter app based on the design of "Subscription App" *by Amruta A. Panganti*, see more on: [Dribbble](https://dribbble.com/shots/5454871-Subscription-App-Freebie-UI-Kit).
 
 This app is designed for iOS, so I've focused on the Cupertino-widgets. This was quite a new learning experience because these widgets worked slightly different.
 
