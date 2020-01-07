@@ -54,7 +54,7 @@ class _OnboardingState extends State<Onboarding> {
             SizedBox(
               height: 200,
             ),
-            Image.asset('assets/images/Onboarding - 1.png'),
+            Image.asset('assets/images/Onboarding1.png'),
             SizedBox(
               height: 30,
             ),
@@ -74,7 +74,7 @@ class _OnboardingState extends State<Onboarding> {
             SizedBox(
               height: 200,
             ),
-            Image.asset('assets/images/Onboarding - 2.png'),
+            Image.asset('assets/images/Onboarding2.png'),
             Text(
               'Add email accounts for easy sync and access of all subscriptions',
               textAlign: TextAlign.center,
@@ -91,7 +91,7 @@ class _OnboardingState extends State<Onboarding> {
             SizedBox(
               height: 200,
             ),
-            Image.asset('assets/images/Onboarding - 3.png'),
+            Image.asset('assets/images/Onboarding3.png'),
             Container(
               margin: EdgeInsets.symmetric(horizontal: 20, vertical: 40),
               child: Text(
